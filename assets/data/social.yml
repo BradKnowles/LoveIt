@@ -593,3 +593,11 @@ rss:
   Newtab: true
   Icon:
     Class: fas fa-rss fa-fw
+
+atom:
+  Weight: 101
+  Url: /feed-atom.xml
+  Title: Feed
+  Newtab: true
+  Icon:
+    Class: fas fa-rss fa-fw
