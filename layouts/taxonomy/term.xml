@@ -1,0 +1,3 @@
+{{ print "<?xml version=\"1.0\" encoding=\"utf-8\" standalone=\"yes\" ?>"| safeHTML }}
+{{ print "<?xml-stylesheet type=\"text/css\" href=\"/css/atom.css\" ?>"| safeHTML }}
+{{ print "<!-- home.atom.xml -->"| safeHTML }}
